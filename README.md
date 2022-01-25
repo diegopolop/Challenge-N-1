@@ -1,1 +1,1 @@
-# Challenge-N-1
+Este proyecto fue diseñado con el objetivo de participar en el challange Allura. Para su realización fue necesario aplicar los contenidos abordados durante los sucesivos cursos, así como también conocimientos obtenidos de otros recursos disponibles.
